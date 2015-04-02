@@ -1,0 +1,14 @@
+// bower:scss
+// endbower
+
+body {
+  background: #fafafa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.minesweeper canvas {
+  display: block;
+  margin: 100px auto 0 auto;
+}
+
